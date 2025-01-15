@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671978765967",
+    "project_id": "basicreactnavigationprac-3fbb6",
+    "storage_bucket": "basicreactnavigationprac-3fbb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671978765967:android:45bc7d7e4bc333f5573afa",
+        "android_client_info": {
+          "package_name": "com.basicreactnavigationpractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB618jmggOAvHiFS5tDkN_-PmsgKxj649s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
